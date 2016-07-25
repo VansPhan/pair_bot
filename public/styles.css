@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+}
+
+a {
+	padding: 10px;
+	color: white;
+	
+}
+
+#yes {
+	background-color: green;
+}
+
+#no {
+	background-color: red;
+}
+
+#done {
+	background-color: blue;
+}
